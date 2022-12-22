@@ -11,5 +11,3 @@
 //     likes+=1
 // // }
 
-function likes() {
-                document.getElementById("demo").innerHTML = "likes =+ 1";}
